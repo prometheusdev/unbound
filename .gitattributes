@@ -1,2 +1,1 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+testdata/*.[0-9] linguist-documentation
